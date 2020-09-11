@@ -10,9 +10,6 @@ import org.springframework.web.client.ResponseExtractor;
 import org.springframework.web.client.RestClientException;
 import org.springframework.web.client.RestTemplate;
 
-import java.net.URI;
-import java.util.Map;
-
 /**
  * 扩展原生RestTemplate, 使其get方式支持设置httpHeader
  *
